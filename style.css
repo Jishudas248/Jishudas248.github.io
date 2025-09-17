@@ -184,4 +184,51 @@ footer {
 
 .technical-details strong {
     color: var(--primary-color);
+
+}
+
+/* === Glossary Page Styles === */
+
+.nav-link {
+    color: var(--bg-color);
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 1rem;
+    transition: opacity 0.2s;
+}
+
+.nav-link:hover {
+    opacity: 0.8;
+}
+
+#glossary-search-input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    margin-bottom: 2rem;
+}
+
+.glossary-item {
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #eee;
+}
+
+.glossary-item:last-child {
+    border-bottom: none;
+}
+
+.glossary-term {
+    font-family: 'Taviraj', serif;
+    font-size: 1.5rem;
+    color: var(--primary-color);
+    margin: 0 0 0.5rem 0;
+}
+
+.glossary-definition {
+    margin: 0;
+    line-height: 1.7;
 }
