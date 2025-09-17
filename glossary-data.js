@@ -1,146 +1,146 @@
 const glossaryTerms = [
   {
     term: "Raag",
-    [cite_start]definition: "A melodic framework consisting of specific notes, mood, and rules. [cite: 390]"
+    definition: "A melodic framework consisting of specific notes, mood, and rules."
   },
   {
     term: "Thaat",
-    definition: "A parent scale; [cite_start]Hindustani has 10 major thaats (e.g., Bilawal, Kafi). [cite: 391]"
+    definition: "A parent scale; Hindustani has 10 major thaats (e.g., Bilawal, Kafi)."
   },
   {
     term: "Aroha",
-    [cite_start]definition: "Ascending order of notes in a raag. [cite: 391]"
+    definition: "Ascending order of notes in a raag."
   },
   {
     term: "Avroha",
-    [cite_start]definition: "Descending order of notes in a raag. [cite: 391]"
+    definition: "Descending order of notes in a raag."
   },
   {
     term: "Vadi",
-    [cite_start]definition: "Most prominent (king) note in a raag. [cite: 391]"
+    definition: "Most prominent (king) note in a raag."
   },
   {
     term: "Samvadi",
-    [cite_start]definition: "Second most prominent (minister) note in a raag. [cite: 391]"
+    definition: "Second most prominent (minister) note in a raag."
   },
   {
     term: "Pakad",
-    [cite_start]definition: "Characteristic musical phrase that captures the essence of a raag. [cite: 391]"
+    definition: "Characteristic musical phrase that captures the essence of a raag."
   },
   {
     term: "Chalan",
-    [cite_start]definition: "Typical movement and phrases that define a raag's flow. [cite: 391]"
+    definition: "Typical movement and phrases that define a raag's flow."
   },
   {
     term: "Jaati",
-    [cite_start]definition: "Classification of raag by number of notes in Aroha/Avroha: Audav (5 notes), Shadav (6), Sampoorna (7). [cite: 391]"
+    definition: "Classification of raag by number of notes in Aroha/Avroha: Audav (5 notes), Shadav (6), Sampoorna (7)."
   },
   {
     term: "Swar",
-    [cite_start]definition: "Note (Sa, Re, Ga, Ma, Pa, Dha, Ni). [cite: 391]"
+    definition: "Note (Sa, Re, Ga, Ma, Pa, Dha, Ni)."
   },
   {
     term: "Shruti",
-    [cite_start]definition: "Microtones; subtle pitch divisions (22 in Hindustani theory). [cite: 392]"
+    definition: "Microtones; subtle pitch divisions (22 in Hindustani theory)."
   },
   {
     term: "Saptak",
-    [cite_start]definition: "Octave: Mandra (low), Madhya (middle), Taar (high). [cite: 392]"
+    definition: "Octave: Mandra (low), Madhya (middle), Taar (high)."
   },
   {
     term: "Alap",
-    [cite_start]definition: "Unmetered, free-form melodic exploration of a raag. [cite: 392]"
+    definition: "Unmetered, free-form melodic exploration of a raag."
   },
   {
     term: "Jor",
-    [cite_start]definition: "Rhythmic development that follows the alap, still without percussion. [cite: 392]"
+    definition: "Rhythmic development that follows the alap, still without percussion."
   },
   {
     term: "Jhala",
-    [cite_start]definition: "Final, fast-paced section of instrumental performance. [cite: 392]"
+    definition: "Final, fast-paced section of instrumental performance."
   },
   {
     term: "Taan",
-    [cite_start]definition: "Fast melodic runs; used in vocal and instrumental improvisation. [cite: 393]"
+    definition: "Fast melodic runs; used in vocal and instrumental improvisation."
   },
   {
     term: "Meend",
-    [cite_start]definition: "Smooth glide between notes. [cite: 393]"
+    definition: "Smooth glide between notes."
   },
   {
     term: "Kan Swar",
-    [cite_start]definition: "Grace note used for ornamentation. [cite: 393]"
+    definition: "Grace note used for ornamentation."
   },
   {
     term: "Murki",
-    [cite_start]definition: "Quick, subtle oscillation or ornamentation. [cite: 393]"
+    definition: "Quick, subtle oscillation or ornamentation."
   },
   {
     term: "Gamak",
-    [cite_start]definition: "Forceful oscillation of a note. [cite: 393]"
+    definition: "Forceful oscillation of a note."
   },
   {
     term: "Andolan",
-    [cite_start]definition: "Slow oscillation on a swar. [cite: 393]"
+    definition: "Slow oscillation on a swar."
   },
   {
     term: "Bandish",
-    [cite_start]definition: "Fixed vocal composition (can be in Vilambit or Drut laya). [cite: 393]"
+    definition: "Fixed vocal composition (can be in Vilambit or Drut laya)."
   },
   {
     term: "Bada Khayal",
-    [cite_start]definition: "Slow-tempo composition used for deep raag exploration. [cite: 393]"
+    definition: "Slow-tempo composition used for deep raag exploration."
   },
   {
     term: "Chhota Khayal",
-    [cite_start]definition: "Fast-tempo version of khayal; often follows bada khayal. [cite: 394]"
+    definition: "Fast-tempo version of khayal; often follows bada khayal."
   },
   {
     term: "Tarana",
-    [cite_start]definition: "Composition using syllables like 'tanana derena'; rhythm-heavy. [cite: 394]"
+    definition: "Composition using syllables like 'tanana derena'; rhythm-heavy."
   },
   {
     term: "Dhrupad",
-    [cite_start]definition: "Oldest vocal form; serious, spiritual, performed with pakhawaj. [cite: 395]"
+    definition: "Oldest vocal form; serious, spiritual, performed with pakhawaj."
   },
   {
     term: "Thumri",
-    [cite_start]definition: "Light classical form; romantic, expressive. [cite: 396]"
+    definition: "Light classical form; romantic, expressive."
   },
   {
     term: "Taal",
-    [cite_start]definition: "Rhythmic cycle (e.g., Teentaal - 16 beats, Rupak - 7 beats). [cite: 396]"
+    definition: "Rhythmic cycle (e.g., Teentaal - 16 beats, Rupak - 7 beats)."
   },
   {
     term: "Matra",
-    [cite_start]definition: "Individual beat in a taal. [cite: 396]"
+    definition: "Individual beat in a taal."
   },
   {
     term: "Sam",
-    [cite_start]definition: "First beat of the cycle; most important. [cite: 397]"
+    definition: "First beat of the cycle; most important."
   },
   {
     term: "Tali",
-    [cite_start]definition: "Clapped beat in the cycle. [cite: 397]"
+    definition: "Clapped beat in the cycle."
   },
   {
     term: "Khali",
-    [cite_start]definition: "Empty beat; shown with a wave of the hand. [cite: 398]"
+    definition: "Empty beat; shown with a wave of the hand."
   },
   {
     term: "Theka",
-    [cite_start]definition: "Basic pattern of bols (syllables) played on tabla for each taal. [cite: 398]"
+    definition: "Basic pattern of bols (syllables) played on tabla for each taal."
   },
   {
     term: "Lay",
-    [cite_start]definition: "Tempo or speed: Vilambit (slow), Madhya (medium), Drut (fast). [cite: 398]"
+    definition: "Tempo or speed: Vilambit (slow), Madhya (medium), Drut (fast)."
   },
   {
     term: "Tihai",
-    [cite_start]definition: "Rhythmic phrase repeated three times, ending on sam. [cite: 398]"
+    definition: "Rhythmic phrase repeated three times, ending on sam."
   },
   {
     term: "Rasa",
-    [cite_start]definition: "Emotional essence or sentiment conveyed (e.g., Shringara, Karuna). [cite: 399]"
+    definition: "Emotional essence or sentiment conveyed (e.g., Shringara, Karuna)."
   }
 ];
